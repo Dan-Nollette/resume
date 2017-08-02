@@ -13,3 +13,8 @@
 .dates {
   font-style: italic;
 }
+
+.column {
+  width: 300px;
+  float: left;
+}
